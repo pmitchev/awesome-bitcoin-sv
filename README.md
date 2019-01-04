@@ -48,6 +48,8 @@ More info [here](https://bitcoinsv.io).
 * [BitDB](https://bitdb.network/) - an autonomous database that continuously synchronizes itself with Bitcoin
 * [SearchBSV](http://www.searchbsv.com/) - A search engine that search everything on BSV.
 * [BitIndex](http://www.bitindex.network/) - Easily query utxo's and wallet balances from a simple API.
+* [Oyo](https://oyo.cash/) - A search engine for Bitcoin
+* [Trends](https://trends.cash) - Visualize with charts BSV content
 
 <a name="talks-and-papers" />
 
